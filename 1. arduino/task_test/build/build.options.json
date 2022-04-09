@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "F:\\Arduino\\libraries",
+  "builtInToolsFolders": "F:\\Arduino\\tools-builder,F:\\Arduino\\hardware\\tools\\avr,C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=c:\\Users\\MSI_NB\\Desktop\\task_test\\build,build.warn_data_percentage=75,runtime.tools.riscv32-esp-elf-gcc.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\riscv32-esp-elf-gcc\\gcc8_4_0-esp-2021r2,runtime.tools.riscv32-esp-elf-gcc-gcc8_4_0-esp-2021r2.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\riscv32-esp-elf-gcc\\gcc8_4_0-esp-2021r2,runtime.tools.esptool_py.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\3.1.0,runtime.tools.esptool_py-3.1.0.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\3.1.0,runtime.tools.mkspiffs.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3,runtime.tools.mkspiffs-0.2.3.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3,runtime.tools.xtensa-esp32s2-elf-gcc.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32s2-elf-gcc\\gcc8_4_0-esp-2021r2,runtime.tools.xtensa-esp32s2-elf-gcc-gcc8_4_0-esp-2021r2.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32s2-elf-gcc\\gcc8_4_0-esp-2021r2,runtime.tools.mklittlefs.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mklittlefs\\3.0.0-gnu12-dc7f933,runtime.tools.mklittlefs-3.0.0-gnu12-dc7f933.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mklittlefs\\3.0.0-gnu12-dc7f933,runtime.tools.xtensa-esp32-elf-gcc.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\gcc8_4_0-esp-2021r2,runtime.tools.xtensa-esp32-elf-gcc-gcc8_4_0-esp-2021r2.path=C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\gcc8_4_0-esp-2021r2",
+  "fqbn": "esp32:esp32:pico32:PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "F:\\Arduino\\hardware,C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\MSI_NB\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10818",
+  "sketchLocation": "c:\\Users\\MSI_NB\\Desktop\\task_test\\task_demo\\task_demo.ino"
+}

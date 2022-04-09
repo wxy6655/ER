@@ -1,6 +1,6 @@
 from pymycobot.mycobot import MyCobot
 import time
-PORT = 'COM*'    #修改为设备连接串口
+PORT = 'COM16'    #修改为设备连接串口
 BAUD = 115200
 # 初始化一个MyCobot对象
 mc = MyCobot(PORT, BAUD)

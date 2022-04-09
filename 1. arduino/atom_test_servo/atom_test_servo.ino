@@ -24,16 +24,16 @@ void loop() {
         sm.WritePosEx(i, 2048, 1000, 100);
         delay(1500);
       }
-        for(int i =1; i <7; i++)
-      {
-        i = 2;
-        sm.WritePosEx(i, 1050, 1000, 100);
-        delay(1500);
-        sm.WritePosEx(i, 3000, 1000, 100);
-        delay(3500);
-        sm.WritePosEx(i, 2000, 1000, 100);
-        delay(1500);
-      }
+//        for(int i =1; i <7; i++)
+//      {
+//        i = 2;
+//        sm.WritePosEx(i, 1050, 1000, 100);
+//        delay(1500);
+//        sm.WritePosEx(i, 3000, 1000, 100);
+//        delay(3500);
+//        sm.WritePosEx(i, 2000, 1000, 100);
+//        delay(1500);
+//      }
     }
     Serial.println();
     Serial.print("find motor id : ");

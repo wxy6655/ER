@@ -79,13 +79,13 @@ def set_line_runing(cobot, axis, step):                         #控制末端做
     if step > 0:
         for _ in range(step):
             pos_1[axis] += 10
-            cobot.send_coords(pos_1, Speed, 2)
+            cobot.send_coords(pos_1, Speed, 1)
             time.sleep(0.05)
     else:
         step = 0 - step
         for _ in range(step):
             pos_1[axis] -= 10
-            cobot.send_coords(pos_1, Speed, 2)
+            cobot.send_coords(pos_1, Speed, 1)
             time.sleep(0.05)
     time.sleep(2)
 
@@ -104,7 +104,7 @@ def robot_init(cobot):                                          #机械臂姿态
             else:
                 print("init_angles_error")
                 continue
-            cobot.send_coords(Coord_int_1, 50, 2)
+            cobot.send_coords(Coord_int_1, 50, 1)
             # if(Get_Coords_parameters(cobot, Coord_int_1)):
             #     print("init_coords_success")
             break

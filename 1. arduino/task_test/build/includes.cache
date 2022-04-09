@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.2\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MSI_NB\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.2\\variants\\pico32"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MSI_NB\\Desktop\\task_test\\build\\sketch\\task_demo.ino.cpp",
+    "Include": "TaskScheduler.h",
+    "Includepath": "C:\\Users\\MSI_NB\\Documents\\Arduino\\libraries\\TaskScheduler\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MSI_NB\\Desktop\\task_test\\build\\sketch\\task_demo.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
