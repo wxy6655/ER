@@ -1,6 +1,6 @@
 {
-    "board": "esp32:esp32:pico32",
-    "configuration": "PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
-    "port": "COM18",
-    "sketch": "1. arduino\\task_test\\task_demo\\task_demo.ino"
+    "board": "esp32:esp32:m5stack-core-esp32",
+    "port": "COM27",
+    "sketch": "1. arduino\\atom__transponder\\atom__transponder.ino",
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none"
 }

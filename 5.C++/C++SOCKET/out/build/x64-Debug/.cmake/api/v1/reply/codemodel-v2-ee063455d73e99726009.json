@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C++SOCKET",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C++SOCKET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C++SOCKET-Debug-341db4c4f8c04bb6d08f.json",
+					"name" : "C++SOCKET",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/OneDrive/Elephantrobotics/05 - 代码文档/1 mycobot/9. 案例/wxy/5.C++/C++SOCKET/out/build/x64-Debug",
+		"source" : "F:/OneDrive/Elephantrobotics/05 - 代码文档/1 mycobot/9. 案例/wxy/5.C++/C++SOCKET"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
